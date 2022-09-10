@@ -65,23 +65,23 @@
 #define TMACRO		5 		// Metatype for macros
 
 /* primitive types */
-#define PCHAR	1 		// Metatype for char
-#define PINT	2 		// Metatype for int 
-#define CHARPTR	3 		// Metatype for char*
-#define INTPTR	4 		// Metatype for int*
-#define CHARPP	5 		// Metatype for char**
-#define INTPP	6 		// Metatype for int**
-#define PVOID	7 		// Metatype for void
-#define VOIDPTR	8 		// Metatype for void*
-#define VOIDPP	9 		// Metatype for void**
-#define FUNPTR	10 		// Metatype for int(*)()
+#define PCHAR	1 			// Metatype for char
+#define PINT	2 			// Metatype for int 
+#define CHARPTR	3 			// Metatype for char*
+#define INTPTR	4 			// Metatype for int*
+#define CHARPP	5 			// Metatype for char**
+#define INTPP	6 			// Metatype for int**
+#define PVOID	7 			// Metatype for void
+#define VOIDPTR	8 			// Metatype for void*
+#define VOIDPP	9 			// Metatype for void**
+#define FUNPTR	10 			// Metatype for int(*)()
 
 /* storage classes */
-#define CPUBLIC	1 		// Metatype for global indentifiers
-#define CEXTERN	2 		// Metatype for extern
-#define CSTATIC	3 		// Metatype for static identifiers in global context
-#define CLSTATC	4 		// Metatype for static identifiers in local contextr
-#define CAUTO	5 		// Metatype for automatically allocated
+#define CPUBLIC	1 			// Metatype for global indentifiers
+#define CEXTERN	2 			// Metatype for extern
+#define CSTATIC	3 			// Metatype for static identifiers in global context
+#define CLSTATC	4 			// Metatype for static identifiers in local contextr
+#define CAUTO	5 			// Metatype for automatically allocated
 
 /* lvalue structure */
 #define LVSYM	0
