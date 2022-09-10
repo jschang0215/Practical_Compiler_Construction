@@ -6,8 +6,8 @@ This my study note on [Practical Compiler Construction](https://www.t3x.org/relo
 
 1. Introduction (pp. 15-34) :heavy_check_mark:
 2. The Tour (pp. 35-230)
-   1. Definitions (pp. 25-50) :heavy_check_mark:
-   2. Utility Functions (pp. 50-54)
+   1. Definitions (pp. 35-50) :heavy_check_mark:
+   2. Utility Functions (pp. 51-54) :heavy_check_mark:
    3. Error Handling (pp. 55-58)
    4. Lexical Analysis (pp. 59-78)
    5. Symbol Table Management (pp. 79-88)
