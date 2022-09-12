@@ -27,7 +27,7 @@ extern_ char	*Basefile;              // Name of principal file being compiled
 
 // Stack structures for implementing macro expansion
 extern_ char	*Macp[MAXNMAC];         // Pointer to macro text
-extern_ int	Macc[MAXNMAC];              // First character in macro input stream
+extern_ int	Macc[MAXNMAC];              // Putback character in macro input stream
 extern_ int	Mp;                         // Stack pointer
 extern_ int	Expandmac;                  // Set to 0 to turn off macro expansion
 

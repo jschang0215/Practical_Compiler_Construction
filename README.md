@@ -9,7 +9,7 @@ This my study note on [Practical Compiler Construction](https://www.t3x.org/relo
    1. Definitions (pp. 35-50) :heavy_check_mark:
    2. Utility Functions (pp. 51-54) :heavy_check_mark:
    3. Error Handling (pp. 55-58) :heavy_check_mark:
-   4. Lexical Analysis (pp. 59-78)
+   4. Lexical Analysis (pp. 59-78) :heavy_check_mark:
    5. Symbol Table Management (pp. 79-88)
    6. Syntax and Semantic Analysis (pp. 89-162)
    7. Preprocessing (pp. 163-170)
